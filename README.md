@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a software Egineering student at **ALXAFRICA**
 
-- 🌱 I’m currently learning **C programming, Python, Java, Sql etc**
+- 🌱 I’m currently learning **C programming, Python, Javascript, MySql, Html & Css, MongoDB etc**
 
 - 💬 Ask me about **C programming , Linux, Python, Java etc**
 
