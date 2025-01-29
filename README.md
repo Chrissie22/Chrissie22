@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Christabel E. 0jobolo</h1>  
-<h3 align="center">A passionate Software developer from Africa</h3>
+<h3 align="center">Innovative Software developer from Africa</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <a href="https://twitter.com/like_christabel" target="blank"><img src="https://img.shields.io/twitter/follow/like_christabel?logo=twitter&style=for-the-badge" alt="like_christabel" /></a> </p>
 
-- 🔭 I’m currently a software Egineering student at **ALXAFRICA**
+- 🔭 A software Egineering alumni at **ALXAFRICA**
 
-- 🌱 I’m currently learning **C programming, Python, Javascript, MySql, Html & Css, MongoDB etc**
+- 🌱 I’m currently working with **C programming, Python, Django Framework, Javascript, Linux, MySql, Html & Css, etc**
 
-- 💬 Ask me about **C programming , Linux, Python, Java etc**
+- 💬 Ask me about **C programming , Linux, Python, Javascript etc**
 
 - 📫 How to reach me **christabel.ojobolo@gmail.com**
 
