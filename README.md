@@ -2,13 +2,19 @@
 <h1 align="center">Hi 👋, I'm Christabel Ojobolo</h1>
 <h3 align="center">Junior Backend Engineer | Passionate about Building Scalable APIs & Empowering Youth through Technology</h3>
 
+<h2 align="center">📈 GitHub Insights</h2>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chrissie22&label=Profile%20Views&color=1a1b26&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Chrissie22?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Chrissie22/Alx_DjangoLearnLab?label=Commit%20Activity&color=6f42c1" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/last-commit/Chrissie22/Alx_DjangoLearnLab?label=Last%20Commit&color=success" alt="Last Commit"/>
+  <br/>
   <a href="https://github.com/Chrissie22?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-84cc16?style=for-the-badge&logo=github" alt="View All Repositories"/>
   </a>
 </div>
+
 
 
 
