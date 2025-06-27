@@ -137,3 +137,12 @@ My goal is to **build scalable solutions that empower African youth and underser
   />
 </p>
 
+
+## 💡 Why I Started with Software Engineering
+
+I started software engineering because I’ve always been passionate about solving problems and creating solutions. Watching ideas come to life through code is powerful and I wanted to be part of that transformation.
+
+## 🎯 My Vision
+
+My goal is to **build scalable solutions that empower African youth and underserved communities**. This fuels my dream of founding **The Quellas Tech Project**, a tech institution that teaches and mentors young minds in Africa.
+
