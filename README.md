@@ -73,8 +73,9 @@ I started software engineering because I’ve always been passionate about solvi
 
 My goal is to **build scalable solutions that empower African youth and underserved communities**. This fuels my dream of founding **The Quellas Tech Project**, a tech institution that teaches and mentors young minds in Africa.
 
-<h3 align="left">💻 Programming Languages</h3>
+<h3 align="left">🚀 Languages & Tools</h3> 
 <p align="left">
+  <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -84,10 +85,8 @@ My goal is to **build scalable solutions that empower African youth and underser
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
-</p>
 
-<h3 align="left">⚙️ Frameworks & API</h3>
-<p align="left">
+  <!-- Backend & Frameworks -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
@@ -95,15 +94,13 @@ My goal is to **build scalable solutions that empower African youth and underser
     <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-api-web-flaticons-flat-flat-icons.png" alt="RESTful API" width="40" height="40"/>
   </a>
   <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
-    <img src="https://docs.celeryq.dev/en/stable/_static/celery_128.png" alt="Celery" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" alt="Celery" width="40" height="40"/>
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
   </a>
-</p>
 
-<h3 align="left">🛠️ DevOps & Tools</h3>
-<p align="left">
+  <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -113,24 +110,17 @@ My goal is to **build scalable solutions that empower African youth and underser
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">🧰 Databases & Caching</h3>
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">🐧 Operating System</h3>
-<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
