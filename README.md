@@ -119,10 +119,13 @@ My goal is to **build scalable solutions that empower African youth and underser
 
 <h3 align="center">📊 Most Used Languages</h3>
 
+<h3 align="center">📊 Most Used Languages</h3>
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissie22&layout=compact&theme=radical&langs_count=8&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissie22&layout=compact&theme=radical&langs_count=8&hide=brainfuck&hide_border=false" 
     alt="Top Languages Used by chrissie22" 
     width="450"
-/>
+  />
 </p>
+
