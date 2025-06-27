@@ -75,28 +75,29 @@ I started software engineering because I’ve always been passionate about solvi
 My goal is to **build scalable solutions that empower African youth and underserved communities**. This fuels my dream of founding **The Quellas Tech Project**, a tech institution that teaches and mentors young minds in Africa.
 
 ---
-<h3 align="left">🚀 Tech stack </h3>
+<h3 align="left">🚀 Tech Stack – Languages & Tools</h3>
+
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
   </a>
 
-  <!-- Backend & Frameworks -->
+  <!-- Frameworks -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/djangorestframework/djangorestframework-icon.svg" alt="DRF" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django REST Framework" width="40" height="40"/>
   </a>
   <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
-    <img src="https://docs.celeryq.dev/en/stable/_static/celery_128.png" alt="Celery" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/1421192?s=200&v=4" alt="Celery" width="40" height="40"/>
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
@@ -119,9 +120,10 @@ My goal is to **build scalable solutions that empower African youth and underser
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux/Ubuntu" width="40" height="40"/>
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu/Linux" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
