@@ -90,9 +90,6 @@ My goal is to **build scalable solutions that empower African youth and underser
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-api-web-flaticons-flat-flat-icons.png" alt="RESTful API" width="40" height="40"/>
-  </a>
   <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg" alt="Celery" width="40" height="40"/>
   </a>
