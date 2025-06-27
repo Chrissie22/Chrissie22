@@ -125,14 +125,8 @@ My goal is to **build scalable solutions that empower African youth and underser
 </p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrissie22&show_icons=true&locale=en&layout=compact" alt="chrissie22" /></p>
 
-
-📘 Languages and Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> </p
-
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChristabelOjobolo&show_icons=true&theme=radical" alt="Christabel's GitHub Stats"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=ChristabelOjobolo&theme=dark&hide_border=true"/> </p>
 🔗 Resume & Portfolio
 🌐 Website
 
