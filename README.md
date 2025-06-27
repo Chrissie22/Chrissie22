@@ -12,19 +12,28 @@
 
 
 
-## 🔭 I’m Currently Working On
+<h2 align="left">🔭 I’m Currently Working On</h2>
 
-- [EcommerceAPI](https://github.com/ChristabelOjobolo/EcommerceAPI) – RESTful ecommerce backend with cart, payment, and order logic.
-- [Alx_DjangoLearnLab](https://github.com/ChristabelOjobolo/Alx_DjangoLearnLab) – Django lab exploring advanced model relationships.
-- [Airbnb Clone Project](https://github.com/ChristabelOjobolo/airbnb-clone-project) – Full backend clone of Airbnb with user auth, listings, and bookings.
+<ul>
+  <li>
+    <a href="https://github.com/ChristabelOjobolo/EcommerceAPI" target="_blank">
+      <strong>EcommerceAPI</strong>
+    </a> – RESTful e-commerce backend with cart, payment, and order logic.
+  </li>
+  <li>
+    <a href="https://github.com/ChristabelOjobolo/Alx_DjangoLearnLab" target="_blank">
+      <strong>Alx_DjangoLearnLab</strong>
+    </a> – Django lab exploring advanced model relationships.
+  </li>
+  <li>
+    <a href="https://github.com/ChristabelOjobolo/airbnb-clone-project" target="_blank">
+      <strong>Airbnb Clone Project</strong>
+    </a> – Full backend clone of Airbnb with user auth, listings, and bookings.
+  </li>
+</ul>
 
----
+<hr/>
 
-## 🌱 I’m Currently Learning
-
-- CI/CD pipeline automation with GitHub Actions  
-- Scalable architecture using **Celery**, **Redis**, and **Docker**
-- Kubernetes deployments for microservices
 
 ---
 
@@ -117,7 +126,6 @@ My goal is to **build scalable solutions that empower African youth and underser
   </a>
 </p>
 
-<h3 align="center">📊 Most Used Languages</h3>
 
 <h3 align="center">📊 Most Used Languages</h3>
 
