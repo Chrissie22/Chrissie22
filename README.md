@@ -2,15 +2,13 @@
 <h3 align="center">Junior Backend Engineer | Passionate about Building Scalable APIs & Empowering Youth through Technology</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristabelOjobolo&label=Profile%20Views&color=1a1b26&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ChristabelOjobolo?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ChristabelOjobolo?label=Stars&style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/commit-activity/m/ChristabelOjobolo/Alx_DjangoLearnLab?label=Commits" alt="Commit Activity"/>
-  <img src="https://img.shields.io/github/last-commit/ChristabelOjobolo/Alx_DjangoLearnLab?label=Last%20Commit" alt="Last Commit"/>
-  <a href="https://github.com/ChristabelOjobolo?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=Chrissie22&label=Profile%20Views&color=1a1b26&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Chrissie22?label=Followers&style=social" alt="Followers"/>
+  <a href="https://github.com/Chrissie22?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-84cc16?style=for-the-badge&logo=github" alt="View All Repositories"/>
   </a>
 </div>
+
 
 ---
 
@@ -68,7 +66,7 @@
 
 ## 💡 Why I Started with Software Engineering
 
-I started software engineering because I’ve always been passionate about solving problems and creating solutions. Watching ideas come to life through code is powerful — and I wanted to be part of that transformation.
+I started software engineering because I’ve always been passionate about solving problems and creating solutions. Watching ideas come to life through code is powerful and I wanted to be part of that transformation.
 
 ---
 
