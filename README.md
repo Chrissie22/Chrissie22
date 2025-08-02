@@ -11,8 +11,8 @@
 
 ![Profile badge](https://www.codewars.com/users/Chrissie22/badges/large)
 
-## 👱 Visitors Count
-<img src="https://profile-counter.glitch.me/Anny85-code/count.svg" />
+## 👱‍♀️ Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Anny85-code/count.svg)
 
 ##
 ## 🥇 Stack
