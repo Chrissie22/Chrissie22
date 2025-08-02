@@ -12,7 +12,8 @@
 ![Profile badge](https://www.codewars.com/users/Chrissie22/badges/large)
 
 ## 👱‍♀️ Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Anny85-code/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Chrissie22&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ##
 ## 🥇 Stack
